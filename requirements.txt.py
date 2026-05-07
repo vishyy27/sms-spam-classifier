@@ -1,5 +1,6 @@
-streamlit
-pandas
-numpy
-scikit-learn
-nltk
+app.py
+requirements.txt
+runtime.txt
+model.pkl
+vectorizer.pkl
+spam.csv
